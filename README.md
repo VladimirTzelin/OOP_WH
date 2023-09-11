@@ -1,9 +1,9 @@
 # Homework seminar 5
 
 
-**Task 1.** Задача №1: проверить XML на Well formed: ([Валидный код xml](https://github.com/ArtemGit007/Web-Tech-Seminar4-Homework/blob/master/valid.xml))
+**Task 1.** Задача №1: проверить XML на Well formed: ())
 
-![xml valid code](https://user-images.githubusercontent.com/119147958/235380428-7ae10251-f999-45ce-9a71-e0f94bc0f601.png)
+![xml valid code]())
 
 
 
